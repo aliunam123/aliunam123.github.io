@@ -3,7 +3,7 @@
   <head><script data-ad-client="ca-pub-5823059544552189" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </head>
   <body style="background-color:cyan">
-    <div style="background-color:yellow"  style="color:green style="font-size:100">DEATH</div>
+    <p style="background-color:yellow"  style="color:green style="font-size:100">DEATH</p>
     <br/>
     <p style="font-size:40">
 
