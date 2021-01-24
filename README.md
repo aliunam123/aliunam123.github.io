@@ -7,20 +7,7 @@
     <h1 style="color:yellow">DEATH</h1>
     <br/>
     <p>
-      Skip to content
-aliunam123
-/
-islam
-Code
-Issues
-Pull requests
-Actions
 
-More
-islam
-/
-README.md
-42
 This part of our journey ends as our death begins.
 No one knows where, how and when he or she will die.
 “Verily, the knowledge of the hour is with Allah (alone). It is He who sends down rain, and He who knows what is in the wombs, nor does anyone know what it is that he will earn on the morrow. Nor does anyone know inwhat land he is to die. Verily, with Allah is full knowledge and He is acquainted (with all things.)” (31:34)
