@@ -1,12 +1,11 @@
-# aliunam123.github.io
-<!DOCTYPE html>
+
 <html>
   <head>
   </head>
-  <body>
-    <h1 style="color:yellow">DEATH</h1>
+  <body style="background-color:cyan">
+    <h1 style="color:yellow" style="font-size:100">DEATH</h1>
     <br/>
-    <p>
+    <p style="font-size:40">
 
 This part of our journey ends as our death begins.
 No one knows where, how and when he or she will die.
