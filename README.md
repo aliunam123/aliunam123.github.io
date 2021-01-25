@@ -2,7 +2,7 @@
 <html>
   <head>
   </head>
-  <body style="background-color:cyan">
+  <body ><div style="background-color:green">
     <p style="color:green style="font-size:100">DEATH</p>
     <br/>
     <p style="font-size:40">
@@ -32,5 +32,6 @@ This is all narrated in the following sound hadith of the prophet (saw): “When
 head and says, ‘Foul soul, come out to the wrath and anger of Allah!’ Then his soul divides up in his body and it is dragged out like a skewer is pulled out of wet wool. Then the angel takes hold of it. When he has grasped it, the other angels do not leave it in his hand even for the twinkling of an eye. They take it and wrap it in the rough haircloth and a stench comes out of it like the worst stench of a corpse on the face of the earth.’
 “Then they take it up and whenever they take it past a company of angels, they ask, ‘Who is this foul soul?’ and the angels with the soul reply, ‘So-and-so the son of so-and-so,’ using the worst names by which people used to call him in this world. They bring him to the lowest heaven and ask for the gate to be opened for him. It does not get opened.’
 </p>
+</div>
 </body>
 <html>
