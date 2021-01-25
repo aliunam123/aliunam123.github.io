@@ -1,6 +1,6 @@
 
 <html>
-  <head><script data-ad-client="ca-pub-5823059544552189" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <head>
   </head>
   <body style="background-color:cyan">
     <p style="color:green style="font-size:100">DEATH</p>
