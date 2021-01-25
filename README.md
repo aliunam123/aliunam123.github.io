@@ -1,6 +1,8 @@
 
 <html>
   <head><title>ALIN-K.ORG</title>
+    <meta name="google-site-verification" content="yR7qprjkgIW3BDrIimdnyw7bcZhFPHFeKRbfxUs0iq0" />
+    
   <script data-ad-client="ca-pub-5823059544552189" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </head>
   <body ><div style="background-color:yellow">
