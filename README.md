@@ -1,8 +1,9 @@
 
 <html>
-  <head>google-site-verification=ucdlGrabZuQalDX817uZ2nO_3eNfCssepoBGSfhDPMo<script data-ad-client="ca-pub-5823059544552189" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <head><script data-ad-client="ca-pub-5823059544552189" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </head>
-  <body ><div style="background-color:yellow">
+  <body >
+    google-site-verification=ucdlGrabZuQalDX817uZ2nO_3eNfCssepoBGSfhDPMo<div style="background-color:yellow">
     <p style="color:green style="font-size:100">DEATH</p>
     <br/>
     <p style="font-size:40">
