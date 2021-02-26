@@ -1,12 +1,10 @@
 
 <html>
-  <Head>
-    
-    <meta name="google-site-verification" content="yR7qprjkgIW3BDrIimdnyw7bcZhFPHFeKRbfxUs0iq0" />
-      <script data-ad-client="ca-pub-5823059544552189" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+  <head>
+ 
 
-  </Head>
-  <body ><div style="background-color:yellow">
+  </head>
+  <body ><p style="background-color:yellow">
     <p style="color:green style="font-size:100">DEATH</p>
     <br/>
     <p style="font-size:40">
