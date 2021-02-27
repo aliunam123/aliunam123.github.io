@@ -36,6 +36,6 @@ head and says, ‘Foul soul, come out to the wrath and anger of Allah!’ Then h
 </p></p>
 
 </body>
-<text area  placeholder=" How did you find this content"/> 
+<text area  placeholder=" How did you find this content"/> <be/>
 <button type="submit" >submit</button/>
-<html>
+</html>
