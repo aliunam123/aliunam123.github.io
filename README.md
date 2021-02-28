@@ -4,8 +4,7 @@
  
 <script data-ad-client="ca-pub-5823059544552189" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </head>
-  <body >
-    <p style="color:green style="font-size:100">DEATH</p>
+  <body >DEATH
     <br/>
     <p style="font-size:40">
 
@@ -37,6 +36,6 @@ head and says, ‘Foul soul, come out to the wrath and anger of Allah!’ Then h
 
 </body>
 <hr/>
-<text area   placeholder=" How did you find this content"/> <br/>
+<input type="text"  placeholder=" Your name? "/> <br/>
 <button type="submit" >submit</button>
 </html>
