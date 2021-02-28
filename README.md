@@ -4,7 +4,7 @@
  
 <script data-ad-client="ca-pub-5823059544552189" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
   </head>
-  <body >DEATH
+  <body            DEATH
     <br/>
     <p style="font-size:40">
 
