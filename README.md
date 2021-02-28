@@ -37,6 +37,9 @@ head and says, ‘Foul soul, come out to the wrath and anger of Allah!’ Then h
 </body>
 <hr/>
 </br>
-<input type="text"  placeholder=" Your name? "/> <br/>
+<input type="text"  id="al" placeholder=" Your name? "/> <br/>
 <button type="submit" >submit</button>
+<script>
+var k = document.getElementById("al");
+document.write(k);
 </html>
