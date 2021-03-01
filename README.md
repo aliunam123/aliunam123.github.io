@@ -36,12 +36,6 @@ head and says, ‘Foul soul, come out to the wrath and anger of Allah!’ Then h
 
 </body>
 <hr/>
-<form>
-<input type="text" id="id" placeholder=" Your name? "/> <br/>
-<textarea width=200 height=300 id="k" /><br/>
-
-<button type="submit" onclick="event()" >submit</button>
-</form>
 <script>
 function event() {
 var k = document.getElementById("k");
@@ -51,4 +45,12 @@ document.write("/n");
 document.write(k);
 } 
 </script>
+
+
+<form>
+<input type="text" id="id" placeholder=" Your name? "/> <br/>
+<textarea width=200 height=300 id="k" /><br/>
+
+<button type="submit" onclick="event()" >submit</button>
+</form>
 </html>
