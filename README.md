@@ -36,10 +36,19 @@ head and says, ‘Foul soul, come out to the wrath and anger of Allah!’ Then h
 
 </body>
 <hr/>
+<form>
+<input type="text" id="id" placeholder=" Your name? "/> <br/>
+<textarea width=200 height=300 id="k" /><br/>
 
-<input type="text"  placeholder=" Your name? "/> <br/>
-<button type="submit"  id="al" >submit</button>
+<button type="submit" onclick="event()" >submit</button>
+</form>
 <script>
-var k = document.getElementById("al");
-document.write(k);</script>
+function event() {
+var k = document.getElementById("k");
+var b = document.getElementById("id");
+document.write(b);
+document.write("/n");
+document.write(k);
+} 
+</script>
 </html>
