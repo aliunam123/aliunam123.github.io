@@ -41,7 +41,7 @@ head and says, ‘Foul soul, come out to the wrath and anger of Allah!’ Then h
 
 <label >Comment</label><br>
 <input type="text" id="id" placeholder=" Your name? "/> <br/>
-<text area rows=5 id="k" /><br/>
+<textarea rows=5 id="k" /><br/>
 
 <button type="submit" id="e" onclick="event()" >submit</button>
 <script>
