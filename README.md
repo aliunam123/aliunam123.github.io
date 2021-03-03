@@ -36,21 +36,27 @@ head and says, ‘Foul soul, come out to the wrath and anger of Allah!’ Then h
 
 </body>
 <hr/>
+
+
+
+<label >Comment</label><br>
+<input type="text" id="id" placeholder=" Your name? "/> <br/>
+<text area rows=5 id="k" /><br/>
+
+<button type="submit" id="e" onclick="event()" >submit</button>
 <script>
 function event() {
 var k = document.getElementById("k");
 var b = document.getElementById("id");
+var e = document.getElementById("e");
+e.addeventListener("click",()=>{
 document.write(b);
 document.write("/n");
 document.write(k);
-} 
+document.write("/n");
+}) ;
+    } ;
 </script>
 
-
-
-<input type="text" id="id" placeholder=" Your name? "/> <br/>
-<textarea width=200 height=300 id="k" /><br/>
-
-<button type="submit" onclick="event()" >submit</button>
 
 </html>
